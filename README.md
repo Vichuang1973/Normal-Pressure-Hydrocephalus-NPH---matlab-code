@@ -3,9 +3,9 @@
 
 This repository contains the MATLAB source code used in the manuscript:
 
-> Author 1, Author 2, and Author 3,  
-> "[Full Paper Title],"  
-> Journal Name, Year.
+> Sheng-Yao Huang  
+> "Novel Connectomic Features Decode the Neural Mechanisms Behind Disproportionately Enlarged Subarachnoid-space Hydrocephalus (DESH)"  
+> Brain Communications, 2026.
 
 ## Overview
 
