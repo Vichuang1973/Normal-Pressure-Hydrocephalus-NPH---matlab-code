@@ -34,6 +34,4 @@ The code was tested on:
 3. Set the current folder to the repository folder.
 4. Run:
 
-```matlab
-setup_project
-main
+Opt_iMBN
